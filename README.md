@@ -1,5 +1,5 @@
 # Tetra Linux
-![version](https://img.shields.io/badge/Current%20Version-1.01.01b-red)
+![version](https://img.shields.io/badge/Current%20Version-1.18.04-red)
 
 Tetra Linux is a lightweight Linux Distribution built on Lubuntu.
 
